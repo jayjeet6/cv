@@ -103,5 +103,7 @@ a:hover{
     font-size: 0.65em;
 }
 .para{
-    font-size: 1rem;
+    width: 50%;
+    margin:0 auto;
+}
 }
